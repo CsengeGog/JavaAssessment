@@ -1,0 +1,5 @@
+com\assessment\java\assessment\Application.class
+com\assessment\java\assessment\controller\UserController.class
+com\assessment\java\assessment\repository\UserRepository.class
+com\assessment\java\assessment\entity\User.class
+com\assessment\java\assessment\service\UserService.class
